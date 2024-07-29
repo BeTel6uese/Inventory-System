@@ -1,0 +1,7 @@
+C:\Users\hriti\OneDrive\Desktop\C# Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\hriti\OneDrive\Desktop\C# Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\hriti\OneDrive\Desktop\C# Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\hriti\OneDrive\Desktop\C# Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.AssemblyReference.cache
+C:\Users\hriti\OneDrive\Desktop\C# Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\hriti\OneDrive\Desktop\C# Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\hriti\OneDrive\Desktop\C# Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
